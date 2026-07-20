@@ -140,4 +140,4 @@ Decode Labs Internship – Project 1
 - Decode Labs
 - Google Gemini API
 - Python Community
-## acess of the code
+
